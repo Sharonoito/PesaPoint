@@ -1,0 +1,153 @@
+body{
+   
+}
+/* Styling home section */
+.home{
+    background-image:url("Images/phone.jpg");
+    background-repeat: no-repeat;
+    background-size:cover;
+    background-color: black;
+    height: 95vh;
+    
+ 
+}
+#card1{
+    margin-left: 60%;
+    margin-top: 30%;
+}
+#card2{
+    margin-top: 30%;
+}
+
+/* Styling about section */
+.about{
+    height: 95vh;
+}
+.circle{
+    margin-top: 10%;
+}
+p{
+    text-align:center;
+}
+.test {
+    width: 200px;
+    height: 200px;
+    background-color:#007BFF;
+    text-align: center;
+    margin-left: 20%;
+    margin-top:10%;
+    align-items: center;
+  }
+  .text{
+      text-align: center;
+  }
+  img{
+    text-align: center;
+  }
+  h6{
+      color: #007BFF;
+      text-align: center;
+  }
+  h2,h4{
+      text-align: center;
+  }
+  h1{
+      font-size: large;
+      font-weight: bolder;
+      text-align: center;
+  }
+
+/* service section styling */
+.service{
+    height: 95vh;
+    background-color: #007BFF; 
+}
+/* contact section styling */
+.contact{
+    height:50vh;
+}
+
+
+.contact .contact-content .column{
+    width: calc(50% - 30px);
+}
+.contact .contact-content .text{
+    font-size: 20px;
+    font-weight: 600;
+    margin-bottom: 10px;
+}
+#paragraph{
+    text-align: center;
+    color: black;
+    font-size: 20px;
+}
+.footer-main-div{
+    width: 100%;
+    height: auto;
+    margin: auto;
+    padding: 15px 0px;
+  
+
+}
+
+.footer-social-icons{
+    width: 100%;
+    height: auto;
+    margin:auto
+}
+.footer-social-icons ul{
+    margin: 0px;
+    padding: 0px;
+    text-align: center;
+}
+.footer-social-icons ul li{
+    display: inline-block;
+    width: 50px;
+    height: 50px;
+    margin: 0px 10px;
+    border-radius: 100%;
+    color: #000;
+    background-color:#007BFF;
+}
+.footer-social-icons ul li a{
+    color: #fff;
+    font-size: 25px;
+}
+.footer-social-icons ul a i{
+    line-height: 50px;
+}
+
+.copyright{
+    padding: 30px;
+    text-align:center ;
+    background-color: #007BFF;
+    color:#fff;
+   
+    
+
+}
+
+
+
+/* footer section styling */
+.title{
+    color:black;
+    text-align: center;
+}
+#title2{
+    color:black;
+    text-align: center;
+    
+}
+
+footer span a{
+    color:orangered;
+    text-decoration: none;
+}
+footer span a:hover{
+    text-decoration: underline;
+
+
+}
+
+
